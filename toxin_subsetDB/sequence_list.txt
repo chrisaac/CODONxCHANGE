@@ -1,0 +1,8 @@
+Contains protein sequence data for:
+Abrin
+Anthrax
+Botulinum toxin
+Conotoxin
+Ricin
+Staphylococcus enterotoxin
+Shiga toxin
