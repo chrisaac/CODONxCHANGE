@@ -1,0 +1,18 @@
+Changes	Protein ID	Max Score	Total Score	Query Cover	E-value	Identity
+1	Alpha-Conotoxin	134	134	100%	3e-40	100%
+2	Alpha-Conotoxin	121	121	100%	7e-35	89%
+3	Alpha-Conotoxin	90.9	90.9	100%	1e-22	89%
+4	Alpha-Conotoxin	52.4	52.4	81%	2e-07	81%
+5	Alpha-Conotoxin	84.7	84.7	100%	3e-20	82%
+6	Alpha-Conotoxin	70.9	70.9	81%	8e-15	74%
+7	Alpha-Conotoxin	100	100	100%	1e-26	79%
+8	Alpha-Conotoxin	45.4	45.4	39%	8e-05	81%
+9	No Significant Similarity Found	0.0	0.0	0%	0.0	0%
+10	Alpha-Conotoxin	66.6	66.6	100%	5e-13	70%
+11	Alpha-Conotoxin	43.9	43.9	72%	3e-04	63%
+12	No Significant Similarity Found	0.0	0.0	0%	0.0	0%
+13	PREDICTED: dnaJ homolog	35.4	35.4	36%	3.2	58%
+14	No Significant Similarity Found	0.0	0.0	0%	0.0	0%
+15	No Significant Similarity Found	0.0	0.0	0%	0.0	0%
+16	No Significant Similarity Found	0.0	0.0	0%	0.0	0%
+17	Hypothetical Protein	34.7	34.7	92%	6.5	34%
